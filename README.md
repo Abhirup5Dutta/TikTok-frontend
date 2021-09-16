@@ -1,3 +1,9 @@
+# Application build
+
+[Deployed Application Link](https://tiktok-clone-3b6fd.web.app/)
+
+![Project image](https://i.imgur.com/LzxGkgV.jpeg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
